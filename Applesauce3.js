@@ -325,7 +325,7 @@ var Ca = 0,
     wa = s.localStorage.speedUpTut;
 wa || (wa =
     0);
-var Zb = undefined;
+var Zb = "LOL;EASY!;OOPS!;I DARE YOU!;GOTCHA!;RUN!;TEAM?;YES!;NO!;KILL THE KING!".split(";");
 !wa && 3 < Y && (wa = 1, s.localStorage.speedUpTut = wa);
 "true" == s.localStorage.lq && (ba = !1);
 if (void 0 == s.localStorage.version || 1.05 > s.localStorage.version) s.localStorage.version = 1.05, k("#updated").show();
